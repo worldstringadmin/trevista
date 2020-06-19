@@ -1,1 +1,33 @@
 /* You can add global styles to this file, and also import other style files */
+
+.footer {
+  position: fixed;
+  left: 0;
+  bottom: 0;
+  width: 100%;
+  /* background-color: #65CCB8; */
+  background-color: rgb(234, 216, 187);
+  color: rgb(25, 25, 25);
+  text-align: center;
+  padding: 2px 0px;
+  z-index: 200;
+}
+
+body {
+  background-color: rgb(242, 239, 237);
+  color: rgb(25, 25, 25);
+}
+
+.autoimage {
+  height: 60vh;
+  width: 100%;
+}
+
+.navcolor {
+  background-color: rgb(234, 216, 187);
+}
+
+.card-bg{
+    background-color: rgb(108, 94, 73);
+    color: #ffffff;
+}
